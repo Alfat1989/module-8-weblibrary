@@ -1,0 +1,28 @@
+{
+  "name": "module-8-weblibrary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/*index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfat1989/module-8-weblibrary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfat1989/module-8-weblibrary/issues"
+  },
+  "homepage": "https://github.com/Alfat1989/module-8-weblibrary#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "@vimeo/player": "^2.16.4",
+    "lodash.throttle": "^4.1.1"
+  }
+}
